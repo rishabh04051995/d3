@@ -1,0 +1,183 @@
+
+body{
+	background-color: white;
+	text-align:center;
+	margin:0 0 0;
+
+}
+/*custom classes use for navigation*/
+.row{
+	font-size: 20px;
+}
+
+.row ul{
+	width: auto;
+	height: 5%;
+	font-size: 20px;
+	margin-left: -8px;
+    margin-right: 8px;
+    margin-bottom: -30px;
+    list-style:none;
+    background-color: black;
+}
+ul{
+	background-color: white;
+	list-style:none;
+    margin-bottom: 10px;
+	overflow: hidden;
+}
+ li{
+	float:left;
+	border-right:1px solid #bbb;
+}
+ li:last-child {
+    border-right: none;
+}
+
+ li a {
+	display: block;
+	background-color:black;
+	color:white;
+	 text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+ li a:hover {
+	background-color:blue;
+	color:white;
+}
+.row01{
+	width: auto;
+	height: 25%;
+}
+
+.list{
+	width: auto;
+	height: 10%
+}
+/* custom class for header */
+.heading{
+	width: 960px;
+	height:200px;
+	margin:-20px -8px 0; 
+	background-image:url(../images/Weather-Blog-Image.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+    }
+ .heading img{
+ 	width: 150px;
+ 	height: 150px;
+ 	float: left;
+ }
+ /* custom class for herounit */
+.herounit{
+	width:960px;
+	height:500px;
+	margin:-20px -8px 0;
+	background-image: url(../images/waethergonewiild_1280.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	text-align: left;
+	color: white;
+	margin-top: -50px;
+
+
+}
+/* custom class for cols grid */
+.col{
+	width: 960px;
+	height: 100px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	margin-top: 10px;
+}
+.col1{
+	width: 33%;
+	
+	float: left;
+	
+}
+.col2{
+	width: 33%;
+	
+	float: left;
+}
+.col3{
+	width: 33%;
+	
+	float: left;
+
+	 
+}
+.col11{width: 320px;
+	height: 100px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+}
+.col22{
+	width: 320px;
+	height:100px;
+    float: left;
+    
+   
+
+}
+.col33{
+
+	width: 320px;
+	height: 100px;
+	float: left;
+	
+}
+.col33 img{
+	width: 300px;
+	height: 250px;
+	margin-right: 10px;
+}
+.col22 img{
+	width: 300px;
+	height: 250px;
+	margin-left: -30px;
+}
+.col11 img{
+	width: 300px;
+	height:250px;
+	margin-left: -47px;
+}
+
+img{
+	width: 480px;
+	height: 250px;
+}
+/* custom classes for footer */
+.footer{
+	width:960px;
+	height:30%;
+	background-color: black;
+	margin: 200px -5 0;
+	color: #fff;
+}
+.fot1{
+
+	width: 240px%;
+	float: left;
+
+}
+.fot2{
+	width: 240px;
+	float:left;
+}
+.fot3{
+	width: 240px;
+	float: left;
+}
+.fot4{
+	width: 240px;
+	float: left;
+}
+.fot4 img{
+	width: 20px;
+	height: 20px;
+}

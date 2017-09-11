@@ -1,0 +1,199 @@
+/* custom class for header */
+.header{
+	width: 960px;
+	height:150px;
+	margin:-10px -8px 0; 
+	background-image:url(../images/ja.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+/* custom classes for navigation bar */
+.row ul{
+	width: auto;
+	height: 5%;
+	font-size: 20px;
+	margin-left: -8px;
+    margin-right: 8px;
+    margin-bottom: -30px;
+    list-style:none;
+    background-color: black;
+    margin-top: -10px
+}
+ul{
+	background-color: white;
+	list-style:none;
+    margin-bottom: 10px;
+
+	overflow: hidden;
+}
+ li{
+	float:left;
+	border-right:1px solid #bbb;
+}
+ li:last-child {
+    border-right: none;
+}
+
+ li a {
+	display: block;
+	background-color:black;
+	color:white;
+	 text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+ li a:hover {
+	background-color:blue;
+	color:white;
+}
+/* custom classes for cols grid */
+.col{
+	width: 960px;
+	height: 400px;
+}
+.col1{
+	width: 480px;
+	height:180px;
+
+}
+.col11 img{
+  width: 380px;
+  height: 180px; 
+ }
+.c0l11{
+	width: 480px;
+	height: 180px;
+}
+.col2{
+	width: 480px;
+	height: 180px;
+
+}
+.col22{
+	margin-top: 100px;
+	width: 480px;
+	height: 180px;
+}
+
+
+
+
+
+
+.colA{
+	width: 960px;
+	height: 400px;
+}
+.colA1{
+	width: 480px;
+	height:180px;
+
+}
+.colA22 img{
+	margin-left: 30px;
+  width: 400px;
+  height: 180px; 
+ }
+.c0lA11{
+	width: 480px;
+	height: 180px;
+}
+.colA2{
+	width: 480px;
+	height: 180px;
+
+}
+.colA22{
+	
+	width: 480px;
+	height: 180px;
+}
+
+.colB{
+	width: 960px;
+	height: 400px;
+}
+.colB1{
+	width: 480px;
+	height:180px;
+
+}
+.colB11 img{
+  width: 380px;
+  height: 200px; 
+ }
+.c0lB11{
+	width: 480px;
+	height: 200px;
+}
+.colB2{
+	width: 480px;
+	height: 180px;
+
+}
+.colB22{
+	margin-left: 20px;
+	width: 480px;
+	height: 180px;
+}
+
+
+.colC{
+	width: 960px;
+	height: 400px;
+}
+.colC1{
+	width: 480px;
+	height:180px;
+
+}
+.colC22 img{
+  width: 380px;
+  height: 200px; 
+ }
+.c0lC11{
+	margin-top: -500px;
+	width: 480px;
+	height: 200px;
+}
+.colC2{
+	width: 480px;
+	height: 180px;
+
+}
+.colC22{
+	margin-left: 40px;
+	width: 480px;
+	height: 180px;
+}
+/* custom classes for footer */
+.footer{
+	width:960px;
+	height:61%;
+	background-color: black;
+	margin: 400px -5 0;
+	color: #fff;
+}
+.fot1{
+
+	width: 240px%;
+	float: left;
+
+}
+.fot2{
+	width: 240px;
+	float:left;
+}
+.fot3{
+	width: 240px;
+	float: left;
+}
+.fot4{
+	width: 240px;
+	float: left;
+}
+.fot4 img{
+	width: 20px;
+	height: 20px;
+}
